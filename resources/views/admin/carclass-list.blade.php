@@ -9,7 +9,7 @@
                 <div class="col-lg-12 grid-margin stretch-card">
                     <div class="card">
                         <div class="card-header d-flex justify-content-between align-items-center">
-                            <h4>CarClass List</h4>
+                            <h4>Demo CarClass List</h4>
                             <div>
                                 <a class="btn btn-sm btn-info" href="#" data-bs-toggle="modal"
                                     data-bs-target="#addCarClass">
